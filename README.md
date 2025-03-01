@@ -108,11 +108,3 @@ You can find the Flask server repository [here](https://github.com/VynavinV/GoGa
 ### Endpoints
 
 The Flask server provides various API endpoints for authentication, image capture, leaderboard management, rewards, and more. Refer to the Flask server repository for detailed documentation on the available endpoints.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
